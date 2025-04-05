@@ -1,20 +1,20 @@
 # XlaysHub 💥
 
-Welcome to **XlaysHub**, a custom Roblox script hub built for fun, trolling, tools, animations, and more — fully FE-compatible and mobile-friendly!
+Welcome to **XlaysHub**, your ultimate custom Roblox script hub. Packed with powerful tools, fun scripts, FE animations, and a sleek UI — made for both mobile and PC users!
 
 ## 🚀 Features
 
-- 🌐 Universal support across many Roblox games
-- 🛠️ Player tools (Fly, WalkSpeed, JumpPower, GodMode, TP Tool)
+- 🌐 Universal game support
+- ✈️ Fly script (custom)
+- 🕹️ Player mods: Speed, Jump, GodMode, etc.
 - 🎮 Game-specific scripts (Brookhaven, Doors, Arsenal)
-- 🎭 Fun scripts (Invisible Chair, Sit Spam, Clone Follower)
-- 🔥 FE Animations with UI
-- 🧼 Clean UI using Kavo UI Library
-- 🎨 Animated GUI using TweenService
+- 🤖 Clone followers, Sit spam, and more fun tools
+- 🔥 FE Animations + UI animations with TweenService
+- 🧼 Clean design using Kavo UI Library
 
 ## 📜 Loadstring
 
-Paste this in your executor to load the hub:
+Paste this into your executor to launch XlaysHub:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/XlaysHub/main/Main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xlaysplays/XlaysHub/refs/heads/main/Main.lua"))()
